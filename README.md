@@ -21,14 +21,14 @@ The container:
 }
 ```
 * Flex-start:
-* ![flex-start](flex-start.png)
+![flex-start](flex-start.png)
 * Flex-end:
-* ![flex-end](flex-end.png)
+![flex-end](flex-end.png)
 * Center:
-* ![center](center.png)
+![center](center.png)
 * Space-around:
-* ![Space-around](space-around.png)
+![Space-around](space-around.png)
 * Space-between:
-* ![Space-between](space-between.png)
+![Space-between](space-between.png)
 * Space-evenly:
-* ![Space-evenly](space-evenly.png)
+![Space-evenly](space-evenly.png)
