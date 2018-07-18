@@ -1,6 +1,5 @@
 # Flexbox in the Batcave
 
-
 Flexbox must have a container and elements
 ```HTML
 <nav class="container">
@@ -22,17 +21,17 @@ The container:
 }
 ```
 ### Flex-start:
-![flex-start](flex-start.png)
+![flex-start](flexbox/flex-start.png)
 ### Flex-end:
-![flex-end](flex-end.png)
+![flex-end](flexbox/flex-end.png)
 ### Center:
-![center](center.png)
+![center](flexbox/center.png)
 ### Space-around:
-![Space-around](space-around.png)
+![Space-around](flexbox/space-around.png)
 ### Space-between:
-![Space-between](space-between.png)
+![Space-between](flexbox/space-between.png)
 ### Space-evenly:
-![Space-evenly](space-evenly.png)
+![Space-evenly](flexbox/space-evenly.png)
 
 ```CSS
 .search{
@@ -40,7 +39,7 @@ The container:
 }
 ```
 ### Margin-left:
-![Margin-left](margin-left.png)
+![Margin-left](flexbox/margin-left.png)
 
 The items:
 * Control the width of the flex items
@@ -68,7 +67,7 @@ The items:
   justify-content: center;
 }
 ```
-![centerabutton](centerabutton.png)
+![centerabutton](flexbox/centerabutton.png)
 
 ### Flex Wrap:
 ```CSS
@@ -89,5 +88,7 @@ The items:
   order: 1;
 }
 ```
-![flex-order](flex-order.png)
+![flex-order](flexbox/flex-order.png)
 
+# CSS variables
+CSS variables are also known as Custom Properties
